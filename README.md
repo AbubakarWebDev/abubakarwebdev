@@ -43,8 +43,6 @@
 
 ----
 
-<br />
-
 # Motivation
 We all love to surf the Internet. Most of the times, we come across some cool awesome websites which we tend to bookmark for future use. And I love to say that I'm no exception to this behavior.
 

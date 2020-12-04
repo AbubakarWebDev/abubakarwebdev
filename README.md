@@ -20,7 +20,7 @@
 <br />
 
 ### Visit My Portfolio Website:
-[<img align="left" alt="techmemorise.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><b> AbubakarWebDev</b>][portfolio]
+[<img align="left" alt="techmemorise.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><b> AbubakarWebDev.github.io</b>][portfolio]
 
 
 ### Languages and Tools:

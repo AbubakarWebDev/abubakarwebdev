@@ -22,13 +22,9 @@
 ### Visit My Portfolio Website:
 [<img align="left" alt="techmemorise.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><b> AbubakarWebDev.github.io</b>][portfolio]
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarwebdev&show_icons=true&locale=en&layout=compact" alt="abubakarwebdev" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakarwebdev&show_icons=true&locale=en" alt="abubakarwebdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarwebdev&" alt="abubakarwebdev" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarwebdev&show_icons=true&locale=en&layout=compact" alt="abubakarwebdev" /></p>
 
 ### Languages and Tools:
 
@@ -135,8 +131,6 @@ Click this Link : https://abubakarwebdev.github.io/webapplications/
 <div align="right">
     <b><a href="#hi-there-i-am-muhammad-abubakar---a-full-stack-web-developer---aka-techmemorise--">↥ Back To Top</a></b>
 </div>
-
-
 
 [website]: https://techmemorise.blogspot.com/
 [portfolio]: https://abubakarwebdev.github.io/

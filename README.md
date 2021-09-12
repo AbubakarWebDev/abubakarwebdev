@@ -22,9 +22,15 @@
 ### Visit My Portfolio Website:
 [<img align="left" alt="techmemorise.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><b> AbubakarWebDev.github.io</b>][portfolio]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakarwebdev&show_icons=true&locale=en" alt="abubakarwebdev" /></p>
+<a href="https://abubakarwebdev.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarwebdev&show_icons=true&locale=en&layout=compact" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarwebdev&show_icons=true&locale=en&layout=compact" alt="abubakarwebdev" /></p>
+<a href="https://abubakarwebdev.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakarwebdev&show_icons=true&locale=en" />
+</a>
+
+<br />
 
 ### Languages and Tools:
 

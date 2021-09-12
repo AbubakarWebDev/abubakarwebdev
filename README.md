@@ -26,8 +26,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarwebdev&show_icons=true&locale=en&layout=compact" />
 </a>
 
+<br />
+
 <a href="https://abubakarwebdev.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakarwebdev&show_icons=true&locale=en" />
+</a>
+
+
+<a href="https://abubakarwebdev.github.io/">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarwebdev" />
 </a>
 
 <br />

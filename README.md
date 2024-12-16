@@ -1,96 +1,61 @@
-### Hi there I am Muhammad Abubakar - A Full Stack Web Developer - aka [Techmemorise][website]  👋
+![👋 Hi, my name is Sushil Magare](./images/github-profile-header.jpg)
 
-## I'm a Good Learner, Developer, and Teacher!!
-
-- 🔭 I just launched my Youtube Channel: [Techmemorise][youtube]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Learning new technology.
-
-### Connect with me:
-[<img align="left" alt="techmemorise.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="techmemorise | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="techmemorise | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="techmemorise | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="techmemorise | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="techmemorise | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Visit My Portfolio Website:
-[<img align="left" alt="techmemorise.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /><b>AbubakarWebDev.github.io</b>][portfolio]
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarwebdev&show_icons=true&locale=en&layout=compact" /> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakarwebdev&show_icons=true&locale=en" /> </p>
-
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarwebdev" /> </p>
-
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="Bootstrap" width="26px" src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />][QuickWebsiteDevelopmentPlaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][QuickWebsiteDevelopmentPlaylist]
-
-<br />
-
-----
-
-# Motivation
-We all love to surf the Internet. Most of the times, we come across some cool awesome websites which we tend to bookmark for future use. And I love to say that I'm no exception to this behavior.
-
-Since I have found so many such awesome websites throughout my journey in this vast ocean we call Internet, I would like to share my collection with you all. I hope you will like this cool collection of mine and don't forget to star my repo!
-
-Most of the websites are just for fun and some are very useful for specific purposes. Though I have written brief information about it in front of the link which I hope will grow your curiosity. Enjoy and do share this cool collection with your friends.
-
-## See The Live Demo of My Portfolio Websites
-Click this Link : https://abubakarwebdev.github.io/
-
-## See The Live Demo of Our Created Websites
-Click this Link : https://abubakarwebdev.github.io/websites/
-
-## See The Live Demo of Our Created Web Application
-Click this Link : https://abubakarwebdev.github.io/webapplications/
-
-# ▀▄▀▄▀▄ [ Follow Me on ] ▄▀▄▀▄▀
-➡️ Facebook:  https://www.facebook.com/techmemories/ 
-
-➡️ Twitter: https://x.com/bkrwebdev
-
-➡️ Linkedin: https://www.linkedin.com/in/abubakarwebdev
-
-➡️ Instagram: https://www.instagram.com/theabubakarway
-
-➡️ Youtube: https://www.youtube.com/channel/UCrF1DtyIAwkLPLm6kKYlTQA
-
-<div align="right">
-    <b><a href="#hi-there-i-am-muhammad-abubakar---a-full-stack-web-developer---aka-techmemorise--">↥ Back To Top</a></b>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Muhammad Abubakar
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-[website]: https://techmemorise.blogspot.com/
-[portfolio]: https://abubakarwebdev.github.io/
-[twitter]: https://www.twitter.com/techmemorise/
-[facebook]: https://www.facebook.com/techmemories/
-[youtube]: https://www.youtube.com/channel/UCrF1DtyIAwkLPLm6kKYlTQA?view_as=subscriber
-[instagram]: https://www.instagram.com/techmemorise/
-[linkedin]: https://www.linkedin.com/in/abubakarwebdev/
-[github]: https://github.com/AbubakarWebDev
-[QuickWebsiteDevelopmentPlaylist]: https://www.youtube.com/watch?v=S9LsiKIdYTE&list=PLA64UTDX4zYi0L_LJq92fNn_L3jG89MJ0
-[JQueryPluginsplaylist]: https://www.youtube.com/watch?v=3A0Kyq-DQ0k&list=PLA64UTDX4zYgRW2F2lzZGq9IvuMPvnpCD
-[cssplaylist]: https://www.youtube.com/watch?v=TeAQ7PKvjVg&list=PLA64UTDX4zYiWx4cmCWBj2igX0g-UYlBi
-[jsplaylist]: https://www.youtube.com/watch?v=S9LsiKIdYTE&list=PLA64UTDX4zYi0L_LJq92fNn_L3jG89MJ0
-[webhostingplaylist]: https://www.youtube.com/watch?v=Borb0i_kHy4&list=PLA64UTDX4zYhBfoAXo4yQDA-jB4OH80aF
+**<h3 align="left">Connect with me:</h3>**
+
+<p align="left">
+	<a href="https://github.com/AbubakarWebDev" target="_blank"> 
+        <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px;" />
+    </a>
+	<a href="https://www.linkedin.com/in/sushil-magare" target="_blank"> 
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px;" />
+    </a>
+	<a href="https://twitter.com/Sushil__SM" target="_blank"> 
+        <img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px;" /> 
+    </a>
+</p>
+
+**<h3 align="left">Passionate Full Stack Web Developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 🌱 I'm currently learning: **📚 Large Language Models and other AI Stuff**
+- 💬 Ask me about: **💡 MERN, MEAN, Devops, Cloud, and System Design**
+- ⚡ Fun fact: **🎢 Unlike most developers, I run on pure logic and creativity, no coffee or tea required!**
+
+**<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="32" alt="GSAP" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px">
+</div>
+
+**<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abubakarwebdev&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+    <img width="48%" src="https://streak-stats.demolab.com/?user=abubakarwebdev&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarwebdev&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=abubakarwebdev&repo=Filend-Frontend-ReactJS&bg_color=424242&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>

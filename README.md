@@ -1,4 +1,4 @@
-![👋 Hi, my name is Sushil Magare](./images/github-profile-header.jpg)
+![👋 Hi, my name is Muhammad Abubakar](./images/github-profile-header.jpg)
 
 <div id="toc">
   <ul align="center" style="list-style: none">

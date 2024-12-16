@@ -51,7 +51,7 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarwebdev&theme=radical&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=abubakarwebdev&repo=complete-data-structure-and-algorithms-cpp&bg_color=424242&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+  <img width="48%" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=abubakarwebdev&repo=complete-data-structure-and-algorithms-cpp&bg_color=141321&show_owner=false&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
 
 **<h3 align="left">GitHub Trophies</h3>**

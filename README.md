@@ -57,3 +57,9 @@
 **<h3 align="left">GitHub Trophies</h3>**
 
 <img width="100%" src="https://github-profile-trophy.vercel.app?username=abubakarwebdev&amp;theme=radical&amp;column=5&amp;row=2&amp;no-bg=false&amp;no-frame=false&amp;margin-w=8&amp;margin-h=8" alt="trophy graph">
+
+**<h3 align="left">Support Me</h3>**
+
+<p align="left"><a href="https://ko-fi.com/abubakarwebdev" target="_blank">
+<img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a>
+</p>

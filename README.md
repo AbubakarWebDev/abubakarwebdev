@@ -5,13 +5,13 @@
 <h1 align="center">Hi, I'm Muhammad Abubakar 👋</h1>
 
 <p align="center">
-  <a href="https://abubakarwebdev.github.io/">
+  <a href="https://abubakarwebdev.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Senior+Software+Engineer;AWS+Certified;Full+Stack+Developer+%7C+Frontend+Heavy" alt="Senior Software Engineer · AWS Certified · Full Stack Developer" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://abubakarwebdev.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abubakarwebdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/abubakarwebdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/bkrwebdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
   <a href="https://ko-fi.com/abubakarwebdev"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support me on Ko-fi" /></a>

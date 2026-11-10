@@ -1,65 +1,59 @@
-![👋 Hi, my name is Muhammad Abubakar](./images/github-profile-header.jpg)
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Muhammad Abubakar
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-**<h3 align="left">Connect with me:</h3>**
-
-<!-- <p align="left">
-	<a href="https://github.com/AbubakarWebDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px;" /></a>
-	<a href="https://www.linkedin.com/in/abubakarwebdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px;" /></a>
-	<a href="https://x.com/bkrwebdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px;" /></a>
-</p> -->
-
-**<h3 align="left">Passionate Full Stack Web Developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 🌱 I'm currently learning: **📚 Large Language Models and other AI Stuff**
-- 💬 Ask me about: **💡 MERN, MEAN, Devops, Cloud, and System Design**
-- ⚡ Fun fact: **🎢 Unlike most developers, I run on pure logic and creativity, no coffee or tea required!**
-
-**<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px">
-    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px">
-    <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 4px">
-    <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="32" alt="GSAP" style="margin-right: 4px">
-    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px">
-</div>
-
-**<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abubakarwebdev&theme=radical&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-    <img width="48%" align="top" src="https://streak-stats.demolab.com?user=abubakarwebdev&theme=radical" alt="GitHub streak Card" />
+<p align="center">
+  <img src="./images/github-profile-header.jpg" alt="Muhammad Abubakar — profile banner" width="100%" />
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarwebdev&theme=radical&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=abubakarwebdev&repo=complete-data-structure-and-algorithms-cpp&bg_color=141321&show_owner=false&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+<h1 align="center">Hi, I'm Muhammad Abubakar 👋</h1>
+
+<p align="center">
+  <a href="https://abubakarwebdev.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Senior+Software+Engineer;AWS+Certified;Full+Stack+Developer+%7C+Frontend+Heavy" alt="Senior Software Engineer · AWS Certified · Full Stack Developer" />
+  </a>
 </p>
 
-**<h3 align="left">GitHub Trophies</h3>**
+<p align="center">
+  <a href="https://abubakarwebdev.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abubakarwebdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/bkrwebdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://ko-fi.com/abubakarwebdev"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support me on Ko-fi" /></a>
+</p>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app?username=abubakarwebdev&amp;theme=radical&amp;column=5&amp;row=2&amp;no-bg=false&amp;no-frame=false&amp;margin-w=8&amp;margin-h=8" alt="trophy graph">
+## About me
 
-**<h3 align="left">Support Me</h3>**
+I'm a full stack web developer based in Lahore, Pakistan, building robust and scalable web applications. I work across the front end and the back end, with a keen eye for user experience and performance.
 
-<p align="left"><a href="https://ko-fi.com/abubakarwebdev" target="_blank">
-<img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a>
+- 🌱 **Currently learning:** Large Language Models and other AI stuff
+- 💬 **Ask me about:** MERN, MEAN, DevOps, Cloud, and System Design
+- ⚡ **Fun fact:** I run on pure logic and creativity. No coffee or tea required!
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,tailwind,prisma,mongodb,postgres,mysql,aws,docker,git&perline=8" alt="JavaScript, TypeScript, React, Next.js, Angular, Node.js, Express, Tailwind CSS, Prisma, MongoDB, PostgreSQL, MySQL, AWS, Docker, Git" />
+</p>
+
+## GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details and contributions" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abubakarwebdev&theme=github-dark-blue&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=abubakarwebdev&hide_border=true" alt="GitHub streak" width="70%" />
+  </picture>
 </p>
